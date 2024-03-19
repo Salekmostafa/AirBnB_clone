@@ -1,0 +1,2 @@
+for web_static
+
